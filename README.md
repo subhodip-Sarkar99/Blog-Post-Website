@@ -82,4 +82,4 @@ Contributions are welcome! Feel free to submit pull requests or open issues for 
 
 ---
 
-Thank you for checking out our professional blog post website! If you have any questions or feedback, please don't hesitate to reach out. Happy blogging! 🚀
+Thank you for checking out my professional blog post website! If you have any questions or feedback, please don't hesitate to reach out. Happy blogging! 🚀
